@@ -1,0 +1,24 @@
+
+.about-pic {
+  max-width: 450px;
+  width: 100%;
+
+  @media (max-width: 1400px) {
+    max-width: 300px;
+    width: 100%;
+  }
+}
+
+.about-card {
+  
+  width: 100%;
+}
+
+.about-subtitle {
+  color: rgb(65, 202, 111);
+  font-weight: 600;
+  font-size: 1.75rem;
+  margin: 0.5rem 0;
+}
+
+
