@@ -17,14 +17,14 @@ export class ProfileComponent {
   }
 
   openResume() {
-    window.open("./assets/Dev_Resume.pdf");
+    window.open("./assets/Shreyashi_sResume.pdf");
   }
 
   goToLinkedin() {
-    window.open('https://www.linkedin.com/in/dev-sriwal-1108b21b9/', '_blank');
+    window.open('https://www.linkedin.com/in/shreyashi-jaiswal-sj0056', '_blank');
   }
 
   goToGithub() {
-    window.open('https://github.com/devsriwal', '_blank');
+    window.open('https://github.com/shreyashi2928', '_blank');
   }
 }

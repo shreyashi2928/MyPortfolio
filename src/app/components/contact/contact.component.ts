@@ -9,10 +9,10 @@ import {Component} from '@angular/core';
 export class ContactComponent {
 
   goToLinkedin() {
-    window.open('https://www.linkedin.com/in/dev-sriwal-1108b21b9/', '_blank');
+    window.open('https://www.linkedin.com/in/shreyashi-jaiswal-sj0056', '_blank');
   }
 
   get email(): string {
-    return 'dev.sriwal@biz2x.com';
+    return 'shreyashi1003@gmail.com';
   }
 }
